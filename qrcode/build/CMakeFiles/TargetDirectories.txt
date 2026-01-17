@@ -1,0 +1,3 @@
+F:/4.camke_test/build/CMakeFiles/QRCodeGen.dir
+F:/4.camke_test/build/CMakeFiles/ALL_BUILD.dir
+F:/4.camke_test/build/CMakeFiles/ZERO_CHECK.dir
